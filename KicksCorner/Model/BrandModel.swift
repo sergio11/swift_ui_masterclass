@@ -1,5 +1,4 @@
 //
-//  KicksCornerApp.swift
 //  KicksCorner
 //
 //  Created by Sergio Sánchez Sánchez on 19/7/23.
