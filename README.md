@@ -54,3 +54,7 @@ Thank you for visiting my repository and reviewing my course practices!
 
 Happy coding! 🚀📱
 
+## Visitors Count
+
+<img width="auto" src="https://profile-counter.glitch.me/swift_ui_masterclass/count.svg" />
+
