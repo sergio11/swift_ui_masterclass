@@ -44,7 +44,6 @@ Here are some of the prominent projects completed during the course:
 <img width="250px" align="left" src="Fructus/Screenshots/fructus_5.png" />
 <img width="250px" align="left" src="Fructus/Screenshots/fructus_6.png" />
 <img width="250px" src="Fructus/Screenshots/fructus_7.png" />
-<img width="250px" src="Fructus/Screenshots/fructus_6.png" />
 
 
 ## Additional Notes 📝
