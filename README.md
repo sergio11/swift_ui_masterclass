@@ -31,6 +31,22 @@ Links to supplementary resources have been included, offering additional informa
 
 Here are some of the prominent projects completed during the course:
 
+### Fructus - SWIFTUI 2 iOS 14
+
+"Fructus" is an iOS application developed as part of the iOS 14 application development curriculum with SwiftUI 2.0 framework. This app aims to provide a comprehensive learning experience covering various fundamental aspects of SwiftUI 2.0 while creating an interactive guide to different fruits. The app features an Onboarding Screen with a Page Tab View, utilizes the new App Storage for managing app state, and explores SwiftUI 2.0's enhanced features like Link View, Group Box View, and Disclosure View.
+
+<img width="250px" align="left" src="Fructus/Screenshots/fructus_1.png" />
+<img width="250px" align="left" src="Fructus/Screenshots/fructus_2.png" />
+<img width="250px" src="Fructus/Screenshots/fructus_3.png" />
+
+<img src="Fructus/Screenshots/fructus_4.png" />
+
+<img width="250px" align="left" src="Fructus/Screenshots/fructus_5.png" />
+<img width="250px" align="left" src="Fructus/Screenshots/fructus_6.png" />
+<img width="250px" src="Fructus/Screenshots/fructus_7.png" />
+<img width="250px" src="Fructus/Screenshots/fructus_6.png" />
+
+
 ## Additional Notes 📝
 
 Any comments, observations, or updates regarding progress in the course can be included in this section to maintain a historical record and track of learning.
